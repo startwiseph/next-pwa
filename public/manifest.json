@@ -1,8 +1,8 @@
 {
   "name": "Next.js PWA",
   "short_name": "NextPWA",
-  "description": "Welcome to the Next.js Progressive Web App template repository!",
-  "icons": [
+    "description": "Welcome to the Next.js Progressive Web App template repository powered by Serwist! This part of the description is editable in the public/manifest.json file.",
+    "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
       "sizes": "192x192",
@@ -20,8 +20,8 @@
       "purpose": "any"
     }
   ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
@@ -39,13 +39,6 @@
       "type": "image/webp",
       "form_factor": "narrow",
       "label": "Another descriptive sentence about the screenshot."
-    },
-    {
-      "src": "/screenshots/1.webp",
-      "sizes": "1080x1920",
-      "type": "image/webp",
-      "form_factor": "narrow",
-      "label": "I think you know what this is about."
     },
     {
       "src": "/screenshots/1.webp",
